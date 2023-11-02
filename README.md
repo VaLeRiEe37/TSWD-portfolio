@@ -11,6 +11,7 @@ In this course, I'm keen on mastering the art of using color smartly in data vis
 👩🏻‍💻Welcome to my portfolio section! Here, you'll find a curated selection of projects and work I've accomplished during my journey in the "Telling Story with Data" course.
 (❗️some are pre-populated by ChatGPT-4 for completeness, will be updated accordingly later)
 
+- [My File](in-class_exercise.md)
 - Visualizing government debt using Tableau (will be hyperlink and clickable later...): A detailed exploration into the world of government finances, rendered visually using Tableau to provide clear insights into debt patterns and implications.
 - Exploratory Data Analysis (EDA) Visualization: An in-depth look into preliminary data analysis using effective visual storytelling techniques.
 - Color Psychology in Data Presentation: Understanding and applying the impact of color choices in various datasets and their interpretation.
