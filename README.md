@@ -7,6 +7,11 @@ Hi there, this is Valerie and you can address me with she/her pronouns. I'm curr
 # What I hope to learn
 In this course, I'm keen on mastering the art of using color smartly in data visualizations to capture attention and convey meaning. With the vast amount of data available today, I believe that the true power lies not just in analyzing it, but in presenting it in a way that resonates with a diverse audience. I would like to refine my skills in crafting user-friendly visuals that resonate with non-tech audiences, making complex data comprehensible and engaging. Ultimately, I hope to enhance my ability to present my work effectively, ensuring that the story behind the data is both compelling and clear to all.
 
+# Homework📝
+
+1. Assignement #1
+   - [General government debtTotal, % of GDP, 2021](/ass1_part1.md)
+
 # Portfolio
 👩🏻‍💻Welcome to my portfolio section! Here, you'll find a curated selection of projects and work I've accomplished during my journey in the "Telling Story with Data" course.
 (❗️some are pre-populated by ChatGPT-4 for completeness, will be updated accordingly later)
