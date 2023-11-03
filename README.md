@@ -10,7 +10,7 @@ In this course, I'm keen on mastering the art of using color smartly in data vis
 # Homework📝
 
 1. Assignement #1
-   - [General government debtTotal, % of GDP, 2021](/ass1_part1.md)
+   - [General government debt (Total, % of GDP, 2021)](/ass1_part1.md)
 
 # Portfolio
 👩🏻‍💻Welcome to my portfolio section! Here, you'll find a curated selection of projects and work I've accomplished during my journey in the "Telling Story with Data" course.
