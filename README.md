@@ -9,10 +9,7 @@ In this course, I'm keen on mastering the art of using color smartly in data vis
 
 # Homework📝
 
-1. Assignement #1
-   - [Bar Chart - General government debt (Total, % of GDP, 2021)](ass1_part1.md)
-   - [Heat Map - Global Debt-to-GDP Ratios Comparison](ass1_part2.md)
-   - [Tree Map - Average Debt-to-GDP Ratios by Country](ass1_part3.md)
+1. [Assignement #1](ass1.md)
 
 # Portfolio
 👩🏻‍💻Welcome to my portfolio section! Here, you'll find a curated selection of projects and work I've accomplished during my journey in the "Telling Story with Data" course.
