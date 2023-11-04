@@ -9,3 +9,11 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+For Part 3, I created a tree map to display the average debt-to-GDP ratio by country. This format allows a quick comparison of each country's fiscal health, with the size of each rectangle corresponding to the country's ratio.
+
+I chose a **red-blue diverging** color scheme, centered at the **median value (64.19%)**, rather than the mean, to account for the data's right skew. I also reversed the default color scheme, which ensures a balanced view of debt levels, with warmer colors indicating higher ratios—a visual alert to areas of potential economic concern.
+
+It suggests that some developed countries, like Japan and the United States, have high debt-to-GDP ratios. This could indicate that developed nations often leverage higher levels of government debt as part of their economic management strategies, relying on their ability to borrow at lower costs due to their established financial systems and perceived creditworthiness.
+
+This tree map, with its customized color scale, provides an at-a-glance understanding of global debt without needing prior data knowledge. It’s an intuitive snapshot of fiscal positions worldwide, making it a valuable addition to the my data visualization portfolio in this topic.
