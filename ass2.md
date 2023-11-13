@@ -1,4 +1,4 @@
-## Assignment#1
+## Assignment#2
 
 ### Plots
    - [Bar Chart - General government debt (Total, % of GDP, 2021)](ass1_part1.md)
