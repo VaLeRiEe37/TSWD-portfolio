@@ -9,7 +9,7 @@ In this course, I'm keen on mastering the art of using color smartly in data vis
 
 # Homework📝
 
-1. [Assignment #2](ass1.md)
+1. [Assignment #2](ass2.md)
 2. Assignment #3 & #4
 
 # Portfolio
