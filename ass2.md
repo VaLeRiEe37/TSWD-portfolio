@@ -1,9 +1,9 @@
 ## Assignment#2
 
 ### Plots
-   - [Bar Chart - General government debt (Total, % of GDP, 2021)](ass1_part1.md)
-   - [Heat Map - Global Debt-to-GDP Ratios Comparison](ass1_part2.md)
-   - [Tree Map - Average Debt-to-GDP Ratios by Country](ass1_part3.md)
+   - [Bar Chart - General government debt (Total, % of GDP, 2021)](ass2_part1.md)
+   - [Heat Map - Global Debt-to-GDP Ratios Comparison](ass2_part2.md)
+   - [Tree Map - Average Debt-to-GDP Ratios by Country](ass2_part3.md)
 
 ### Summary
 
