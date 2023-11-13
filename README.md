@@ -10,7 +10,7 @@ In this course, I'm keen on mastering the art of using color smartly in data vis
 # Homework📝
 
 1. [Assignment #2](ass2.md)
-2. Assignment #3 & #4
+2. [Assignment #3 & #4](ass3&4.md)
 
 # Portfolio
 👩🏻‍💻Welcome to my portfolio section! Here, you'll find a curated selection of projects and work I've accomplished during my journey in the "Telling Story with Data" course.
