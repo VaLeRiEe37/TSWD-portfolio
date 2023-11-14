@@ -35,7 +35,14 @@ Interview questions script:
 - What additional information or details would you be curious to see, or would you expect to find in this visualization?
 Document what you changed based on the user feedback in your redesign.
 
+**studentA, mid 20's**
+  dd
+**studentB, mid 20's**
+  cc
+
 What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign. 
+
+Learned from the feeback and review the [data source](https://data.world/makeovermonday/2023w18), I redo the sketch.
 
 ![this is an image](ass3&4_sketch2.jpg)
 
