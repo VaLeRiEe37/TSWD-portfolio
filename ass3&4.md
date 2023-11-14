@@ -1,5 +1,7 @@
 ## Assignment#3&4
 [this is an image](ass3&4_sketch.jpg)
+![Uploading image.png…]()
+
 ### Step one: choose a data visualization from MakeoverMonday
 
 ### Step two: critique the data visualization
