@@ -41,22 +41,31 @@ Document what you changed based on the user feedback in your redesign.
 
   2. The red and blue color scheme pops and makes it easy to spot which states have higher and lower percentages of minimum wage workers. But it's a bit confusing because there's no legend explaining the colors. Also, the note on the side is kinda squished and hard to read.
 
-  3. I’d expect to see some kind of legend or key to make sense of the colors at a glance. Also, it'd be cool to see some numbers on how the percentages have changed over time, like a little trend line or something for each state when you hover over it.
+  3. I’d expect to see some kind of legend or key to make sense of the colors at a glance. Also, it'd be cool to see some numbers on how the percentages have changed over time, like a little trend line or something for each state when you hover over it. And why you choose year 2017? I think the audience would like to see more recent statistics or at least and latest info.
   
   
 **studentB, mid 20's**
 
-  - This map's showing us where in the U.S. people are earning around minimum wage, kind of painting a picture of the economic landscape state by state for 2017.
+  1. This map's showing us where in the U.S. people are earning around minimum wage, kind of painting a picture of the economic landscape state by state for 2017.
 
-  - The switch-up with darker reds for higher rates and darker blues for lower ones is clever—really makes the high-low divide jump out at you. But hey, what do the different shades mean exactly? And that note scribbled on the side is tricky to make out, makes me squint.
+  2. The switch-up with darker reds for higher rates and darker blues for lower ones is clever—really makes the high-low divide jump out at you. But hey, what do the different shades mean exactly? And that note scribbled on the side is tricky to make out, makes me squint.
 
-  - Would be neat to see some stats on how these numbers have shifted over the past few years, give a sense of whether things are getting better or worse. And how about a quick explainer for the color shades?
+  3. Would be neat to see some stats on how these numbers have shifted over the past few years, give a sense of whether things are getting better or worse. And how about a quick explainer for the color shades? I would also suggest try other kind of visualizations like bar plot. It maybe better to show the trend over years than map, as stats would not stack together. I'm curious about the data behind the map. Like, what’s the overall national average, and how do states compare to it? Also, it'd be interesting to see some demographic breakdowns, maybe age or industry, to get a deeper understanding of the workforce in each wage bracket.
 
-What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign. 
+For the final redesign based on the feedback, the following changes could be considered:
 
-Learned from the feeback and review the [data source](https://data.world/makeovermonday/2023w18), I redo the sketch.
+- Introduce a clear and concise legend for the color scale.
+- Enhance readability of annotations or notes on the visualization.
+- Incorporate interactive elements to display trends over time for each state.
+- Update the dataset to the most recent year available to increase relevance.
+- Explore alternative visualization types, such as bar plots, to represent trends more effectively.
+- Include additional context like national averages and demographic breakdowns to provide a more comprehensive understanding of the data.
+
+Feedback from the interviews highlights two main areas for the redesign: the need for a legend to decode the color scheme and enhanced data presentation for clarity and depth. Users suggested clearer annotations, trend data over time, and more current statistics. Based on this and reviewed the [data source](https://data.world/makeovermonday/2023w18) thoroughly, I redo the sketch.
 
 ![this is an image](ass3&4_sketch2.jpg)
+
+
 
 ### Step five: Final solution
 [this is my final vis](ass3&4_finalViz.md)
