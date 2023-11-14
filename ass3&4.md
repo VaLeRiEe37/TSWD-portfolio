@@ -7,6 +7,7 @@ I choose the ["How many people earned the Federal minimum wage or less in each S
 ![this is the original visualization](ass3&4_original.jpg)
 
 Source: https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T
+
 Data Source: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm)
 
 ### Step two: critique the data visualization
