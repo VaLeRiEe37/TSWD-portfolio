@@ -26,6 +26,8 @@ You should talk about how you moved next to the sketches, and any insights you g
 
 ![this is an image](ass3&4_sketch.jpg)
 
+![this is an image](ass3&4_sketch2.jpg)
+
 ### Step four: Test the solution
 Interview questions script:
 - d
