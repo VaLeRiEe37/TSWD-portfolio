@@ -13,13 +13,13 @@ I choose the ["How many people earned the Federal minimum wage or less in each S
 ### Step two: critique the data visualization
 You should include any insights you gained from the critique method, and what it led you to think about when considering the redesign.
 
-The data visualization effectively communicates the geographic distribution of minimum wage earners across the United States, a strong aspect that stands out at first glance. The map is suitably used for this data type, and the color gradient highlights state differences, meriting an <u>8 out of 10 for usefulness</u> and a <u>7 out of 10 for intuitiveness</u>, as the color shades chosen could be improved for clarity.
+The data visualization effectively communicates the geographic distribution of minimum wage earners across the United States, a strong aspect that stands out at first glance. The map is suitably used for this data type, and the color gradient highlights state differences, meriting an 8 out of 10 for usefulness and a 7 out of 10 for intuitiveness, as the color shades chosen could be improved for clarity.
 
 What worked well is the *categorization into percentage ranges*, allowing for a swift visual assessment of minimum wage earner prevalence. The visualization's clarity and the focused use of a single color with varying intensities maintain the data's prominence. Information is easily perceivable, with clear color contrast and legible text, warranting a 7 out of 10 for perceptibility.
 
-However, the similar shades of blue could pose difficulties for color-blind users, and the map lacks context for the numbers, such as state workforce sizes, which would provide a clearer picture of the number of workers earning minimum wage or less. Also, the plot just mentions the year (2017) in the source, which is in a really small font size. Would be better to put the year in the plot title.
+However, the similar shades of blue could pose difficulties for color-blind users, and the map lacks context for the numbers, such as state workforce sizes, which would provide a clearer picture of the number of workers earning minimum wage or less. Also, the plot just mentions the year (2017) in the source, which is in a really small font size. Would be better to put the year in the plot title. If data from other years are available, it could be added to make comparisons and possibly identify trends for each state.
 
-To improve, I would prefer introducing clearer color distinctions or patterns for different ranges to enhance accessibility. Including interactive elements, like hover-over details, could offer additional context, such as the size of the labor force and historical data for trend analysis. A bar plot could also be considered as an alternative to better communicate the information.
+To improve, I would prefer introducing **clearer color distinctions** or patterns for different ranges to enhance accessibility. Including **interactive elements**, like hover-over details, could offer additional context, such as the size of the labor force and historical data for trend analysis. A bar plot could also be considered as an alternative to better communicate the information.
 
 ### Step three: sketch out a solution
 You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.
