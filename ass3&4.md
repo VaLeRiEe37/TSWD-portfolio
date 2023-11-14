@@ -11,7 +11,6 @@ I choose the ["How many people earned the Federal minimum wage or less in each S
 - Data Source: [Bureau of Labor Statistics](https://www.bls.gov/opub/reports/minimum-wage/2021/home.htm)
 
 ### Step two: critique the data visualization
-You should include any insights you gained from the critique method, and what it led you to think about when considering the redesign.
 
 The data visualization effectively communicates the geographic distribution of minimum wage earners across the United States, a strong aspect that stands out at first glance. The map is suitably used for this data type, and the color gradient highlights state differences, meriting an 8 out of 10 for usefulness and a 7 out of 10 for intuitiveness, as the color shades chosen could be improved for clarity.
 
@@ -22,22 +21,23 @@ However, the similar shades of blue could pose difficulties for color-blind user
 To improve, I would prefer introducing **clearer color distinctions** or patterns for different ranges to enhance accessibility. Including **interactive elements**, like hover-over details, could offer additional context, such as the size of the labor force and historical data for trend analysis. A bar plot could also be considered as an alternative to better communicate the information.
 
 ### Step three: sketch out a solution
-You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.
+Below is my sketch:
 
 ![this is an image](ass3&4_sketch.jpg)
 
-![this is an image](ass3&4_sketch2.jpg)
+In the redesign of the sketch, I stuck with the map layout because it’s a familiar and effective way to show regional data. For the color scheme, I flipped to red-blue (reversed) and pivoted around the median value of 2.2%. This approach means that darker reds indicate higher percentages, while darker blues represent lower percentages. This color choice is advantageous because it provides a clear visual contrast that can help to quickly differentiate states with higher versus lower proportions of minimum wage workers—reds jump out for areas of concern, while blues recede for less affected areas. I've also updated the title to include the year "2017" for clear temporal context. Additionally, I added interactive tooltips that reveal more details—like the state name, the percentage at minimum wage, the percentage below minimum wage, and the total percentage for that state—when you hover over each state. This feature enriches the map with valuable data points and enhances user engagement without cluttering the visual space.
 
 ### Step four: Test the solution
+
 Interview questions script:
-- d
-- d
-- d
-- e
-- d
+- Looking at this map, what information do you think it's trying to convey?
+- As you examine this visualization, what stands out to you, and what—if anything—do you find unclear or puzzling?
+- What additional information or details would you be curious to see, or would you expect to find in this visualization?
 Document what you changed based on the user feedback in your redesign.
 
 What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign.  Document those in your writeup heading into Step Five.   The feedback from this step should help guide your final redesign. 
+
+![this is an image](ass3&4_sketch2.jpg)
 
 ### Step five: Final solution
 [this is my final vis](ass3&4_finalViz.md)
