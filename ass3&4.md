@@ -1,6 +1,4 @@
 ## Assignment#3&4
-You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
-
 
 ### Step one: choose a data visualization from MakeoverMonday
 I choose the ["How many people earned the Federal minimum wage or less in each State?"](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T) from the [MareoverMonday (2023 Section)](https://www.makeovermonday.co.uk/data/). Below is the original data visualization:
