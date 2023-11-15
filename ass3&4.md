@@ -65,7 +65,16 @@ Feedback from the interviews highlights two main areas for the redesign: the nee
 
 ![this is an image](ass3&4_sketch2.jpg)
 
-
+I chose a bullet graph this time to incorporate all available data from 2015 to 2021. For each state, I started the bar at the minimum percentage and ended at the maximum, highlighting the latest year's percentage with a red dot. This design clearly shows the data's range and progression over time, making it easier to compare and analyze the changes.
 
 ### Step five: Final solution
-[this is my final vis](ass3&4_finalViz.md)
+
+After considering the feedback I received on my sketches, I decided to revise my approach for the final visualization. I wanted to find a way to integrate elements from both of my initial designs, but I found myself a bit stuck. Seeking inspiration, I revisited MakeoverMonday and watched a "Watch Me Viz" video. To my surprise, the tutor's proposed solution was precisely what I had been looking to create. I chose to follow the tutorial and replicate the visualization for my final piece. Another reason for this decision was my fascination with how the tutor used different shapes, specifically polygons, to represent each state and incorporated a linked chart inside. This technique seemed both intriguing and challenging to execute in Tableau, and I was eager to learn how to do it. Below is the link to my final visualzation and wrap-up summary.
+
+[This is the final visualization learned from Andy Kriebel](ass3&4_finalViz.md)
+
+### Future Work
+
+ I would like to explore additional avenues if I had more time to dedicate to this project. One aspect that intrigues me is the variation in state-level minimum wages compared to the federal standard. It feels somewhat counterintuitive to analyze federal minimum wage trends on a state-by-state basis without accounting for these differences. If possible, I'd like to find a way to normalize these thresholds to determine whether a universal minimum wage standard is necessary. Perhaps we could differentiate the states with two colors—one for those using the federal threshold and another for states with their own—then analyze them separately.
+
+Another dimension I'm considering is moving beyond percentages to actual population figures, which could convey more concrete information. We could also refine the scope of our analysis for more precise insights. For example, we could compare the populations of women and men at or below the minimum wage threshold across different states. This focused approach could yield a better understanding of the wage gap and its implications.
