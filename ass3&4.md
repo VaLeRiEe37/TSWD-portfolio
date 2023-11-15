@@ -71,6 +71,16 @@ After considering the feedback I received on my sketches, I decided to revise my
 
 [This is the final visualization learned from Andy Kriebel](ass3&4_finalViz.md)
 
+<div class='tableauPlaceholder' id='viz1699941797958' style='position: relative'><noscript><a href='#'><img alt='MM2023 W18 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMonday2023Week18-PercentageofAmericanWorkersMakingMinimumWageorLess_16999417786290&#47;MM2023W18&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MakeoverMonday2023Week18-PercentageofAmericanWorkersMakingMinimumWageorLess_16999417786290&#47;MM2023W18' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMonday2023Week18-PercentageofAmericanWorkersMakingMinimumWageorLess_16999417786290&#47;MM2023W18&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1699941797958');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 ### Future Work
 
  I would like to explore additional avenues if I had more time to dedicate to this project. One aspect that intrigues me is the variation in state-level minimum wages compared to the federal standard. It feels somewhat counterintuitive to analyze federal minimum wage trends on a state-by-state basis without accounting for these differences. If possible, I'd like to find a way to normalize these thresholds to determine whether a universal minimum wage standard is necessary. Perhaps we could differentiate the states with two colors—one for those using the federal threshold and another for states with their own—then analyze them separately.
