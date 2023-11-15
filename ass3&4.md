@@ -80,6 +80,8 @@ After considering the feedback I received on my sketches, I decided to revise my
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+
 The final visualization is a hexagonal cartogram representing the United States, where each state's proportion of workers earning at or below the minimum wage is depicted. Year has been set as a filter, and can be changed from 2015 to 2021. I've used distinct colors for Oregon (blue) and Louisiana (red) to likely signify the states with the lowest and highest rates of minimum wage workers, respectively, like my two sketches. Within each state shape, there is a line plot show the trend of percentage change over years. This design choice draws the viewer's eye to the extremes in the dataset, providing a clear and immediate understanding of the geographical distribution of minimum wage employment across the nation.
 
 
