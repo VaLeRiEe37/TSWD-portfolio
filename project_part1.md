@@ -1,5 +1,4 @@
-## Final Project Part I 
-[🏠 Back to home page](README.md)
+## [Final Project Part I](README.md)
 
 ## [Title]
 
