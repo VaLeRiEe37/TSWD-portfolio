@@ -35,5 +35,6 @@
 ### Identify primary data sources:
 
 ### Method and Medium:
-
+For the execution of my final project, I've chosen to weave my narrative through **Shorthand**, which is quite engaging and user-friendly. This choice is inspired by exemplary projects showcased in our class, which highlighted Shorthand's efficacy in presenting complex information. My visualizations will primarily be crafted using **Tableau** and **ArcGIS Pro**, tools that offer a robust framework for creating dynamic and insightful data representations. Additionally, to add an element of visual clarity and appeal, I am considering integrating infographics designed with **Canva**. This combination ensures that the visual storytelling is not only comprehensive but also compelling. \\
+The aim is to create a singular, immersive experience where users can access and understand key information about urban green spaces and their impact on community safety, sparking further interest and encouraging them to delve deeper into the subject of tree equity and its importance in urban planning.
 ### References:
