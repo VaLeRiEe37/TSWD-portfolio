@@ -44,9 +44,13 @@ This project is not just an academic exercise but a narrative that addresses an 
 ### Identify primary data sources:
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| 1. Tree Equity Score   | [Link](https://www.treeequityscore.org/methodology#3.69/38.45/-100.76)|             |
+| 2. State-level Crime Rate   |  [Link](https://worldpopulationreview.com/state-rankings/crime-rate-by-state)   |             |
+| 3. Pittsburgh Crime Rate    | [Link](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index)    |             |
+| 4. WiseVoter - States by Population  | [Link](https://wisevoter.com/state-rankings/states-by-population/) |  |
+| 5. Cities by Population in PA   | [Link](https://worldpopulationreview.com/states/cities/pennsylvania) |  |
+| 6. Budget allocation of Pittsburgh   | [Link](https://data.wprdc.org/tr/dataset/city-pittsburgh-operating-budget) |  |
+| To be continue... |
 ### Method and Medium:
 For the execution of my final project, I've chosen to weave my narrative through **Shorthand**, which is quite engaging and user-friendly. This choice is inspired by exemplary projects showcased in our class, which highlighted Shorthand's efficacy in presenting complex information. My visualizations will primarily be crafted using **Tableau** and **ArcGIS Pro**, tools that offer a robust framework for creating dynamic and insightful data representations. Additionally, to add an element of visual clarity and appeal, I am considering integrating infographics designed with **Canva**. This combination ensures that the visual storytelling is not only comprehensive but also compelling.
 
