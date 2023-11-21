@@ -1,6 +1,6 @@
 ## [Final Project Part I](README.md)
 
-## [Title]
+## Green Spaces vs. Crime Rates: A Visual Analysis of Pittsburgh's Urban Landscape
 
 ### High-level summary of project:
  - One line summary:
@@ -8,6 +8,8 @@
  - Call to Action:
 
 ### An Outline
+- Introduction
+  - d
 
 ### Identify primary data sources:
 
