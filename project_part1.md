@@ -12,7 +12,7 @@
 ### Identify primary data sources:
 
 ### Initial Sketches:
-
+![Sketches](project_part1_sketches.jpg)
 ### Method and Medium:
 
 ### References:
