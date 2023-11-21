@@ -42,8 +42,8 @@ This project is not just an academic exercise but a narrative that addresses an 
 ![Sketches](project_part1_sketches.jpg)
 
 ### Identify primary data sources:
-| Name | URL | Description |
-|------|-----|-------------|
+| Name                                 | URL                                                                          | Description |
+|--------------------------------------|------------------------------------------------------------------------------|-------------|
 | 1. Tree Equity Score                 | [Link](https://www.treeequityscore.org/methodology#3.69/38.45/-100.76)       | It provides information on tree equity, tree canopy, priority index, and other demographic and accessibility information.             |
 | 2. State-level Crime Rate            |  [Link](https://worldpopulationreview.com/state-rankings/crime-rate-by-state)|    It provides state-level crime reate data.         |
 | 3. Pittsburgh Crime Rate             | [Link](https://www.ucr.pa.gov/PAUCRSPUBLIC/Home/Index)                       |   It provide pittsburgh crime rate by neighborhood.          |
