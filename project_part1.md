@@ -42,6 +42,7 @@ This project is not just an academic exercise but a narrative that addresses an 
 ![Sketches](project_part1_sketches.jpg)
 
 ### Identify primary data sources:
+
 | Name                                 | URL                                                                          | Description |
 |--------------------------------------|------------------------------------------------------------------------------|-------------|
 | 1. Tree Equity Score                 | [Link](https://www.treeequityscore.org/methodology#3.69/38.45/-100.76)       | It provides information on tree equity, tree canopy, priority index, and other demographic and accessibility information.             |
@@ -50,7 +51,7 @@ This project is not just an academic exercise but a narrative that addresses an 
 | 4. WiseVoter - States by Population  | [Link](https://wisevoter.com/state-rankings/states-by-population/)           | It provides data on the total, male and female, and density of the population in each state.  |
 | 5. Cities by Population in PA        | [Link](https://worldpopulationreview.com/states/cities/pennsylvania)         | It provides data on a city-level population in PA. |
 | 6. Budget allocation of Pittsburgh   | [Link](https://data.wprdc.org/tr/dataset/city-pittsburgh-operating-budget)   | This dataset shows the 2011-YTD operating budgets for the City of Pittsburgh.  |
-| To be continue...                    |                                                                              |   |
+
 ### Method and Medium:
 For the execution of my final project, I've chosen to weave my narrative through **Shorthand**, which is quite engaging and user-friendly. This choice is inspired by exemplary projects showcased in our class, which highlighted Shorthand's efficacy in presenting complex information. My visualizations will primarily be crafted using **Tableau** and **ArcGIS Pro**, tools that offer a robust framework for creating dynamic and insightful data representations. Additionally, to add an element of visual clarity and appeal, I am considering integrating infographics designed with **Canva**. This combination ensures that the visual storytelling is not only comprehensive but also compelling.
 
