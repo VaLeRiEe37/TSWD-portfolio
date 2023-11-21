@@ -26,17 +26,17 @@ This project is not just an academic exercise but a narrative that addresses an 
   - Narrow in on Pennsylvania, but specifically the Greater Pittsburgh region (**Sketch #2**): For Sketch #2, I'm zooming into Pennsylvania, especially the Greater Pittsburgh area, using a series of *bar graphs* to compare the total population and population density of the top U.S. states, highlighting Pennsylvania's position as the 5th most populous. In the bar graph where Pittsburgh stands out as the second-largest city in PA, I'm considering adding another visualization to make the story more compelling. Alongside this, I plan to use a *donut chart* to represent Pittsburgh's investment in green spaces, showing the percentage of the city's budget allocated to these efforts. It’s a visual narrative about where the city places its priorities and how serious it is about improving green spaces. The purpose is to illustrate not only the scale of the city's green ambitions but also to provide context for how Pittsburgh's green space efforts compare to its size and population—do larger investments correlate with its standing as a major city within Pennsylvania? This could offer insights into the effectiveness and reach of such urban greening initiatives. (Data Source:)
 
 - **Detailed City Analysis**
-  - City-Level Distribution (**Sketch #3**): Narrow down to Pittsburgh, using a detailed map to highlight the distribution of green spaces within the city and corresponding crime rates. (Data Source:)
-  - Comparative Analysis (**Sketch #4**): Use comparative bar graphs to delve deeper into the green space and crime rate data between different neighborhoods within Pittsburgh. (Data Source:)
-  - Temporal Trends (**Sketch #5**): Present a timeline showing how the development of green spaces and crime rates have changed over the years in Pittsburgh, offering a historical perspective. (Data Source:)
+  - City-Level Distribution (**Sketch #3**): For Sketch #3, I'm focusing on Pittsburgh itself. I've mapped out the city to display the green spaces using a gradient of colors that reflect different levels of tree equity scores—the deeper the green, the higher the score. I'm overlaying this map with solid circles that represent crime hotspots; larger circles denote areas with more severe criminal activity. My aim is to visually correlate the density of green spaces with crime rates, hoping to observe that neighborhoods with higher tree equity scores might show smaller crime hotspots. (Data Source:)
+  - Comparative Analysis (**Sketch #4**): In Sketch #4, I'm using comparative bar graphs to get into the specifics of green space and crime rates across different neighborhoods in Pittsburgh. The bars are dual-layered, with green representing the amount of green space and orange for the number of crimes, normalized to allow for accurate comparisons regardless of neighborhood size or population. (Data Source:)
+  - Temporal Trends (**Sketch #5**): In Sketch #5, I plan to illustrate the evolution of Pittsburgh's urban landscape with a timeline graph that traces the changes in green space development against crime rates over the years. This line graph will measure green space through the lens of tree cover rates and available land for recreation, while plotting crime rates alongside. The goal is to provide a historical view, revealing whether there's a visible trend or correlation between the increase in green spaces and a shift in crime rates. (Data Source:)
 
 - **Discussion**
   - Analysis of Findings: Discuss the insights gained from the visualizations, including any trends, patterns, or anomalies. Examine the relationship between green spaces and crime rates and whether the data supports the initial hypothesis.
-  - Implications: Consider the broader implications of your findings for urban planning, policy-making, and community safety.
+  - Implications: Highlight Reader’s Perspective, considering the broader implications of findings for urban planning, policy-making, and community safety.
 
 - **Conclusion**
-  - Summary of Key Points: Recap the major elements of the story, reiterating the findings and their significance
-  - Call to Action: Encourage further research, policy consideration, or community engagement based on the insights provided by your analysis.
+  - Summary of Key Points: Recap the major elements of the story, reiterating the findings and their significance.
+  - Call to Action: Encourage further research, policy consideration, or community engagement based on the insights provided by the analysis.
 
 ### Initial Sketches:
 ![Sketches](project_part1_sketches.jpg)
@@ -45,7 +45,6 @@ This project is not just an academic exercise but a narrative that addresses an 
 
 ### Method and Medium:
 For the execution of my final project, I've chosen to weave my narrative through **Shorthand**, which is quite engaging and user-friendly. This choice is inspired by exemplary projects showcased in our class, which highlighted Shorthand's efficacy in presenting complex information. My visualizations will primarily be crafted using **Tableau** and **ArcGIS Pro**, tools that offer a robust framework for creating dynamic and insightful data representations. Additionally, to add an element of visual clarity and appeal, I am considering integrating infographics designed with **Canva**. This combination ensures that the visual storytelling is not only comprehensive but also compelling.
-
 
 The aim is to create a singular, immersive experience where users can access and understand key information about urban green spaces and their impact on community safety, sparking further interest and encouraging them to delve deeper into the subject of tree equity and its importance in urban planning.
 ### References:
