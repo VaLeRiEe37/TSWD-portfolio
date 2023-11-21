@@ -42,9 +42,11 @@ This project is not just an academic exercise but a narrative that addresses an 
 ![Sketches](project_part1_sketches.jpg)
 
 ### Identify primary data sources:
-1. dd
-2. dd.
-
+| Name | URL | Description |
+|------|-----|-------------|
+|      |     |             |
+|      |     |             |
+|      |     |             |
 ### Method and Medium:
 For the execution of my final project, I've chosen to weave my narrative through **Shorthand**, which is quite engaging and user-friendly. This choice is inspired by exemplary projects showcased in our class, which highlighted Shorthand's efficacy in presenting complex information. My visualizations will primarily be crafted using **Tableau** and **ArcGIS Pro**, tools that offer a robust framework for creating dynamic and insightful data representations. Additionally, to add an element of visual clarity and appeal, I am considering integrating infographics designed with **Canva**. This combination ensures that the visual storytelling is not only comprehensive but also compelling.
 
