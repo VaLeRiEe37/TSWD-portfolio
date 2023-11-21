@@ -3,6 +3,15 @@
 ## Green Spaces vs. Crime Rates: A Visual Analysis of Pittsburgh's Urban Landscape
 
 ### High-level summary of project:
+
+For my final project, I am honing in on the city of Pittsburgh to investigate the intersection of urban greenery and crime rates, a pivot from my earlier research which explored the broader issue of access to green spaces across Pennsylvania, with a focus on ethnic disparities. This prior work, which utilized geographic visualizations, laid a foundation for understanding the nuances of green space distribution. Now, I seek to narrow my scope, both geographically to Pittsburgh and thematically to the correlation between green spaces and crime rates, utilizing a diverse array of data visualizations and new data dimensions, such as tree cover scores, to delve deeper into this compelling topic.
+
+With the majority of Americans living in cities, the quest for ample and equitable urban green spaces is more than an amenity—it's essential for the collective well-being and quality of life ([citation](https://www.synlawn.com/commercial-projects/urban-hardscape-transformed-into-a-community-green-space/). This project is inspired by studies like the one conducted in Philadelphia's New Kensington neighborhood, where vacant land accounted for an average of 10% of parcels per block, revealing the urban tapestry of undeveloped spaces within a bustling cityscape ([Wachter, 2005](https://library.weconservepa.org/library_items/1032-The-Determinants-of-Neighborhood-Transformations-in-Philadelphia-Identification-and-Analysis-The-New-Kensington-Pilot-Study)). While Pittsburgh-specific data on the relationship between green spaces and social dynamics are scarce, the implications of such disparities as found in Philadelphia provide a guiding beacon for this research. It suggests a pattern that might be replicated or contrasted in Pittsburgh, offering a rich avenue for discovery.
+
+By integrating new forms of data visualizations and leveraging datasets such as tree equity scores, I will probe deeper into Pittsburgh's green infrastructure. The city's progressive efforts to augment green spaces and promote tree equity will be juxtaposed against this backdrop, scrutinizing whether these urban greening initiatives could be a beacon for enhancing public safety and reducing crime rates.
+
+This project is not just an academic exercise but a narrative that addresses an urgent environmental issue with deep societal implications. By highlighting the importance of tree equity, I hope to underscore the role that urban green spaces play in fostering healthier, safer communities.
+
  - One line summary:
  - Reader’s Perspective:
  - Call to Action:
