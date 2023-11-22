@@ -39,6 +39,9 @@ This project is not just an academic exercise but a narrative that addresses an 
   - Call to Action: Encourage further research, policy consideration, or community engagement based on the insights provided by the analysis.
 
 ### Initial Sketches:
+
+Here are some of the visualizations I hope to achieve throughout the development of the project. I intend to use yellow and  green as the consistent color gradient/scale for vizualizations of green spaces, and organge and red for crime related visualizations. Also considering grey as the comparative color for other objects in one plot. 
+
 ![Sketches](project_part1_sketches.jpg)
 
 ### Identify primary data sources:
