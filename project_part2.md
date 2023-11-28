@@ -14,12 +14,13 @@ Text here!
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask.
+
 In designing my Interview Script, I focused on three main areas (2 of which are from the GoodCharts Critique Method, 1 from GoodCharts Chapter 7):
 
-Design Execution (Aesthetics, Layout of Shorthand, and Types of Visualizations)
-Contextual Awareness (Clarity, Simplicity, Intuitiveness)
-Persuasion and Manipulation (Motivation, Engagement, Learning Experience)
-General Question
+- Design Execution (Aesthetics, Layout of Shorthand, and Types of Visualizations)
+- Contextual Awareness (Clarity, Simplicity, Intuitiveness)
+- Persuasion and Manipulation (Motivation, Engagement, Learning Experience)
+- General Question
 
 
 | Goal | Questions to Ask |
