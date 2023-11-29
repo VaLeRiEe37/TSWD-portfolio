@@ -31,7 +31,7 @@ In designing my Interview Script, I focused on three main areas (2 of which are 
 | Contextual Awareness: Clarity     | Is the overall story and objective clear? Is there anything you think needs to be clarified more?                |
 | Contextual Awareness: Simplicity     | Is the story easy to follow, or were there places that were more difficult to understand than others?                 |
 |Contextual Awareness: Intuitiveness      |  	Is the story intuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?                |
-| Persuasion and Manipulation: Motivation     | Do you feel motivated to learn more about tree equity or tree canopy in Chicago or your place of choice?                 |
+| Persuasion and Manipulation: Motivation     | Do you feel motivated to learn more about tree equity or tree canopy in Pittsburgh or your place of choice?                 |
 | Persuasion and Manipulation: Engagement     |  While looking through the storyboard/wireframe, did you stay engaged throughout or were there places where you began to become uninterested?                |
 |  Persuasion and Manipulation: Learning Experience    |  Did you learn anything? Is there something else you wish/hope to learn after viewing the whole storyboard?                |
 |Overall: Final Recommendations/Thoughts|Overall, is there anything you would change or do differently? Any final thoughts or recommendations?|
