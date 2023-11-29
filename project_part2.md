@@ -5,7 +5,7 @@
 
 My story outline draft using Shorthand can be viewed below:
 
-[Click to see my storyboards]([https://preview.shorthand.com/Dd96hojCGLq1rWr6](https://preview.shorthand.com/Dd96hojCGLq1rWr6))
+[Click to see my storyboards](https://preview.shorthand.com/Dd96hojCGLq1rWr6)
 
 # User research 
 
