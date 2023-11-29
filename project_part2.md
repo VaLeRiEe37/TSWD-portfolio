@@ -1,10 +1,11 @@
 | [home page](https://valeriee37.github.io/TSWD-portfolio/) | [visualizing debt](https://valeriee37.github.io/TSWD-portfolio/ass2.html) | [critique by design](https://valeriee37.github.io/TSWD-portfolio/ass3&4.html) | [final project I](https://valeriee37.github.io/TSWD-portfolio/project_part1.html) | [final project II](https://valeriee37.github.io/TSWD-portfolio/project_part2.html) | [final project III](https://valeriee37.github.io/TSWD-portfolio/project_part3.html) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> To enhance the visual storytelling and structure of my project, I opted to utilize Shorthand for creating wireframes/storyboards at this phase. This approach hopefully not only accelerates the development of the final product but ensures more effective and meaningful feedback during my interviews.
 
-Text here!
-[shorthand](https://preview.shorthand.com/Dd96hojCGLq1rWr6)
+My story outline draft using Shorthand can be viewed below:
+
+[Click to see my storyboards]([https://preview.shorthand.com/Dd96hojCGLq1rWr6](https://preview.shorthand.com/Dd96hojCGLq1rWr6))
 
 # User research 
 
@@ -14,15 +15,6 @@ Text here!
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask.
-
-In designing my Interview Script, I focused on three main areas (2 of which are from the GoodCharts Critique Method, 1 from GoodCharts Chapter 7):
-
-- Design Execution (Aesthetics, Layout of Shorthand, and Types of Visualizations)
-- Contextual Awareness (Clarity, Simplicity, Intuitiveness)
-- Persuasion and Manipulation (Motivation, Engagement, Learning Experience)
-- General Question
-
 
 | Goal | Questions to Ask |
 |------|------------------|
