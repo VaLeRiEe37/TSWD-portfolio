@@ -10,23 +10,33 @@ My story outline draft using Shorthand can be viewed below:
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My project aims to shift focus to a unique angle, showcasing the importance of tree canopy and green spaces from a social security perspective. The primary audience is the residents of Pittsburgh and its neighboring areas, highlighting the growing concern of tree equity and the unequal distribution of greenery, which tends to favor wealthier neighborhoods. While Pittsburghers are at the heart of this narrative, the message extends to a broader audience nationwide. The issues of tree equity and canopy coverage are not exclusive to Pittsburgh; they resonate across the United States. By shedding light on Pittsburgh's situation, I hope to inspire people everywhere to explore and address these environmental disparities in their own communities.
+
+For my project, I focused on choosing interviewees who represent different perspectives related to my target audience. I identified three distinct profiles:
+
+1. Local Experience Insight:
+
+- Interviewee A is a woman in her early 30s, with a background in business and logistics. She has lived in Pittsburgh for six years and has observed the city's tree canopy and equity issues firsthand.
+  
+2. Environmental Consciousness:
+
+- Interviewee B, a woman in her mid-20s, is pursuing a master's in urban design. She has a keen interest in environmental issues, offering an informed perspective on the importance of urban greenery.
+
+3. Neutral Viewpoint:
+
+- Interviewee C, an early-20s woman with a background in information technology, policy, and data analytics, represents a neutral stance. She has little prior knowledge or strong feelings about tree equity or canopy, providing an unbiased viewpoint on the matter.
+
+To enrich my project, I also ensured that these individuals have experience or knowledge in creating data visualizations. This criterion was important to gather constructive feedback on the clarity and comprehensibility of my visualizations.
 
 ## Interview script
 
 | Goal | Questions to Ask |
 |------|------------------|
-|  Design Execution: Aesthetics    | Are there any elements that are distracting or confusing such as layout, color, text, font?                 |
 | Design Execution: Layout of Shorthand     | Does the chosen layout of Shorthand make the story flow well?                 |
-| Design Execution: Types of Visualizations     |   Are the visualizations used appropriate for the data used? Are they clear? Confusing? Misleading?               |
 | Contextual Awareness: Clarity     | Is the overall story and objective clear? Is there anything you think needs to be clarified more?                |
 | Contextual Awareness: Simplicity     | Is the story easy to follow, or were there places that were more difficult to understand than others?                 |
-|Contextual Awareness: Intuitiveness      |  	Is the story intuitive and clear? Are there any improvements that need to be made to the storyboard? Additional information needed?                |
 | Persuasion and Manipulation: Motivation     | Do you feel motivated to learn more about tree equity or tree canopy in Pittsburgh or your place of choice?                 |
-| Persuasion and Manipulation: Engagement     |  While looking through the storyboard/wireframe, did you stay engaged throughout or were there places where you began to become uninterested?                |
-|  Persuasion and Manipulation: Learning Experience    |  Did you learn anything? Is there something else you wish/hope to learn after viewing the whole storyboard?                |
 |Overall: Final Recommendations/Thoughts|Overall, is there anything you would change or do differently? Any final thoughts or recommendations?|
 
 
@@ -39,9 +49,11 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Does the chosen layout of Shorthand make the story flow well? | Insightful feedback            |             |             |
+| Is the story easy to follow, or were there places that were more difficult to understand than others?                         |                                |             |             |
+| Is the story easy to follow, or were there places that were more difficult to understand than others?                        |                                |             |             |
+| Do you feel motivated to learn more about tree equity or tree canopy in Pittsburgh or your place of choice?                        |                                |             |             |
+| Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                        |                                |             |             |
 
 
 # Identified changes for Part III
