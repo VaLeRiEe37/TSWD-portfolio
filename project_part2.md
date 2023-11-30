@@ -55,9 +55,7 @@ Details of the findings from my interviews are shared and summarized below:
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -65,7 +63,9 @@ Text here!
 | Suggestions for more information on crimes and specific neighborhood comparisons in Pittsburgh.                                         |  If I have enough time, will think about add more content related to crime statistics and compare different neighborhoods within Pittsburgh to provide a clearer picture of the social impact.                                                                               |
 | Consistency in font and color was lacking, and a suggestion for a stronger punchline to conclude the story.                                         |Great catch. I am not that familiar with the setting and opeartions on Shorthand...will try to standardize font and color throughout the presentation to improve visual consistency. Also will develop a compelling closing statement and refine the transition into the call to action.                                                                                 |
 
-> ...include any final thoughts you have here. 
+Based on the valuable insights from my interviews, I've identified several key areas for enhancement in Part III of my project. I'll introduce legends to those maps (without making the visualization more busy) for better clarity and will highlight specific areas, like Downtown Pittsburgh, to help readers easily identify key regions.
 
-Text here!
+I also plan to enrich the content with additional crime statistics and draw comparisons between different Pittsburgh neighborhoods to underscore the varying impacts of tree equity. This will involve a deeper dive into the data to provide a more nuanced understanding of the social context.
+
+To ensure visual coherence throughout the presentation, I will standardize the use of fonts and colors. Lastly, I'm crafting a strong, closing statement to round off the narrative effectively and make the transition into the call to action more natural and impactful. This will ensure that the message not only resonates with the audience but also motivates them towards a deeper engagement with the topic.
 
