@@ -40,20 +40,18 @@ To enrich my project, I also ensured that these individuals have experience or k
 |Overall: Final Recommendations/Thoughts|Overall, is there anything you would change or do differently? Any final thoughts or recommendations?|
 
 
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+Details of the findings from my interviews are shared and summarized below:
+
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|Does the chosen layout of Shorthand make the story flow well? | Insightful feedback            |             |             |
-| Is the story easy to follow, or were there places that were more difficult to understand than others?                         |                                |             |             |
-| Is the story easy to follow, or were there places that were more difficult to understand than others?                        |                                |             |             |
-| Do you feel motivated to learn more about tree equity or tree canopy in Pittsburgh or your place of choice?                        |                                |             |             |
-| Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                        |                                |             |             |
+|Does the chosen layout of Shorthand make the story flow well? | Yes, I Liked the platform - never seen Shorthand before, very user-friendly            | Liked the ability to scroll.liked different subsections at the top toclick, very uniform, liked the transition slides            | Yes, easy to scroll, anddon't need to clickthrough anything, thoughtransition slides helpedguide the story            |
+| Is the story easy to follow, or were there places that were more difficult to understand than others?                         | Easy to follow                                | Easy to follow, though those maps in the Pittsburgh section are a little hard to understand            | Yes, would like to see more about crimes though            |
+| Is the overall story and objective clear? Is there anything you think needs to be clarified more?                        | Yes quite clear. I would say add more about crimes                               | Yes, I like the idea that you want to use the effect of green spaces on crimes to call for people's attention on tree equity             |  Yes kind of, would like to see some specific neightborhood comparisons in Pittsburgh though.           |
+| Do you feel motivated to learn more about tree equity or tree canopy in Pittsburgh or your place of choice?                        | Yes for sure.                               |Yes! Would be interestedto know about it inCleveland             |Yes, the findings and results in Philly is inspiring.             |
+| Overall, is there anything you would change or do differently? Any final thoughts or recommendations?                        |                      I would say add legend to those maps if possible, and circle/highlight the region (like Downtown Pittsburgh) to make it easy to distinguish.          | The font and color, I think they are not consistent overall. And also I would say add some some titles to the map sections or simply add titles to those maps, so audiences are easy to walk through that section.            | I think you can find a stronger punchline to wrap up the story. And currently the Budget section is the last part before call to action, I think the transition is a little weird.       |
 
 
 # Identified changes for Part III
