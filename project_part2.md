@@ -45,7 +45,7 @@ To enrich my project, I also ensured that these individuals have experience or k
 Details of the findings from my interviews are shared and summarized below:
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 |Does the chosen layout of Shorthand make the story flow well? | Yes, I Liked the platform - never seen Shorthand before, very user-friendly            | Liked the ability to scroll.liked different subsections at the top toclick, very uniform, liked the transition slides            | Yes, easy to scroll, anddon't need to clickthrough anything, thoughtransition slides helpedguide the story            |
 | Is the story easy to follow, or were there places that were more difficult to understand than others?                         | Easy to follow                                | Easy to follow, though those maps in the Pittsburgh section are a little hard to understand            | Yes, would like to see more about crimes though            |
@@ -63,7 +63,7 @@ Details of the findings from my interviews are shared and summarized below:
 | Suggestions for more information on crimes and specific neighborhood comparisons in Pittsburgh.                                         |  If I have enough time, will think about add more content related to crime statistics and compare different neighborhoods within Pittsburgh to provide a clearer picture of the social impact.                                                                               |
 | Consistency in font and color was lacking, and a suggestion for a stronger punchline to conclude the story.                                         |Great catch. I am not that familiar with the setting and opeartions on Shorthand...will try to standardize font and color throughout the presentation to improve visual consistency. Also will develop a compelling closing statement and refine the transition into the call to action.                                                                                 |
 
-Based on the valuable insights from my interviews, I've identified several key areas for enhancement in Part III of my project. I'll introduce legends to those maps (without making the visualization more busy) for better clarity and will highlight specific areas, like Downtown Pittsburgh, to help readers easily identify key regions.
+Based on the valuable insights from my interviews, I've identified several key areas for enhancement in Part III of my project. I'll introduce **legends to those maps** (without making the visualization more busy) for better clarity and will **highlight specific areas**, like Downtown Pittsburgh, to help readers easily identify key regions. And I will adjust the layout of the "Observations in Pitts" sections, so that audiences may be easier to walk through that part.
 
 I also plan to enrich the content with additional crime statistics and draw comparisons between different Pittsburgh neighborhoods to underscore the varying impacts of tree equity. This will involve a deeper dive into the data to provide a more nuanced understanding of the social context.
 
