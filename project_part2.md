@@ -61,11 +61,9 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Mixed responses regarding the clarity of maps, with some difficulty in understanding the Pittsburgh section. | I will definitely try to find a way to add map legends to the current layout, and highlight key areas like Downtown Pittsburgh for clarity. Consider simplifying or explaining maps more thoroughly. |
+| Suggestions for more information on crimes and specific neighborhood comparisons in Pittsburgh.                                         |  If I have enough time, will think about add more content related to crime statistics and compare different neighborhoods within Pittsburgh to provide a clearer picture of the social impact.                                                                               |
+| Consistency in font and color was lacking, and a suggestion for a stronger punchline to conclude the story.                                         |Great catch. I am not that familiar with the setting and opeartions on Shorthand...will try to standardize font and color throughout the presentation to improve visual consistency. Also will develop a compelling closing statement and refine the transition into the call to action.                                                                                 |
 
 > ...include any final thoughts you have here. 
 
