@@ -9,18 +9,18 @@ Hi there, this is Valerie and you can address me with she/her pronouns. I'm curr
 # What I hope to learn
 In this course, I'm keen on mastering the art of using color smartly in data visualizations to capture attention and convey meaning. With the vast amount of data available today, I believe that the true power lies not just in analyzing it, but in presenting it in a way that resonates with a diverse audience. I would like to refine my skills in crafting user-friendly visuals that resonate with non-tech audiences, making complex data comprehensible and engaging. Ultimately, I hope to enhance my ability to present my work effectively, ensuring that the story behind the data is both compelling and clear to all.
 
-# Homework📝
+# Homework and Project📝
 
-1. [Assignment #2](ass2.md)
-2. [Assignment #3 & #4](ass3&4.md)
-3. [Project_Part I](project_part1.md)
-4. [Project Part II](project_part2.md)
+1. [Assignment #2](https://valeriee37.github.io/TSWD-portfolio/ass2.html)
+2. [Assignment #3 & #4](https://valeriee37.github.io/TSWD-portfolio/ass3&4.html)
+3. [Project_Part I](https://valeriee37.github.io/TSWD-portfolio/project_part1.html)
+4. [Project Part II](https://valeriee37.github.io/TSWD-portfolio/project_part2.html)
+5. [Project Part III](https://valeriee37.github.io/TSWD-portfolio/project_part3.html)
+6. [Final deliverable](https://preview.shorthand.com/Dd96hojCGLq1rWr6)
 
 # Portfolio
 👩🏻‍💻Welcome to my portfolio section! Here, you'll find a curated selection of projects and work I've accomplished during my journey in the "Telling Story with Data" course.
-(❗️some are pre-populated by ChatGPT-4 for completeness, will be updated accordingly later)
 
-- [Visualizing government debt using Tableau](ass1.md): A detailed exploration into the world of government finances, rendered visually using Tableau to provide clear insights into debt patterns and implications.
-- Exploratory Data Analysis (EDA) Visualization: An in-depth look into preliminary data analysis using effective visual storytelling techniques.
-- Color Psychology in Data Presentation: Understanding and applying the impact of color choices in various datasets and their interpretation.
-- Final Project (TBD)
+- 💰[Visualizing government debt using Tableau](https://valeriee37.github.io/TSWD-portfolio/ass2.html): A detailed exploration into the world of government finances, rendered visually using Tableau to provide clear insights into debt patterns and implications.
+- [Critique by design](https://valeriee37.github.io/TSWD-portfolio/ass3&4.html)Exploratory Data Analysis (EDA) Visualization: An in-depth look into preliminary data analysis using effective visual storytelling techniques.
+- 🌲[Final Project](https://preview.shorthand.com/Dd96hojCGLq1rWr6):
