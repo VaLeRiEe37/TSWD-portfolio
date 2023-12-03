@@ -1,5 +1,7 @@
+| [home page](https://valeriee37.github.io/TSWD-portfolio/) | [visualizing debt](https://valeriee37.github.io/TSWD-portfolio/ass2.html) | [critique by design](https://valeriee37.github.io/TSWD-portfolio/ass3&4.html) | [final project I](https://valeriee37.github.io/TSWD-portfolio/project_part1.html) | [final project II](https://valeriee37.github.io/TSWD-portfolio/project_part2.html) | [final project III](https://valeriee37.github.io/TSWD-portfolio/project_part3.html) |
+
 ## Assignment#3&4
-[🏠 Back to home page](README.md)
+
 ### Step one: choose a data visualization from MakeoverMonday
 I choose the ["How many people earned the Federal minimum wage or less in each State?"](https://www.businessinsider.com/federal-minimum-wage-workers-map-2018-10?r=US&IR=T) from the [MareoverMonday (2023 Section)](https://www.makeovermonday.co.uk/data/). Below is the original data visualization:
 
