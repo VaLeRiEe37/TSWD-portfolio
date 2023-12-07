@@ -1,8 +1,8 @@
-| [home page](https://valeriee37.github.io/TSWD-portfolio/) | [visualizing debt](https://valeriee37.github.io/TSWD-portfolio/ass2.html) | [critique by design](https://valeriee37.github.io/TSWD-portfolio/ass3&4.html) | [final project I](https://valeriee37.github.io/TSWD-portfolio/project_part1.html) | [final project II](https://valeriee37.github.io/TSWD-portfolio/project_part2.html) | [final project III](https://valeriee37.github.io/TSWD-portfolio/project_part3.html) | [final deliverable](https://preview.shorthand.com/Dd96hojCGLq1rWr6) |
+| [home page](https://valeriee37.github.io/TSWD-portfolio/) | [visualizing debt](https://valeriee37.github.io/TSWD-portfolio/ass2.html) | [critique by design](https://valeriee37.github.io/TSWD-portfolio/ass3&4.html) | [final project I](https://valeriee37.github.io/TSWD-portfolio/project_part1.html) | [final project II](https://valeriee37.github.io/TSWD-portfolio/project_part2.html) | [final project III](https://valeriee37.github.io/TSWD-portfolio/project_part3.html) | [final deliverable](https://carnegiemellon.shorthandstories.com/greenery-vs-safety/index.html) |
 
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+Please find my final deliverable from Shorthand below. For the best viewing experience, I recommend visiting the [site](https://carnegiemellon.shorthandstories.com/greenery-vs-safety/index.html) directly.
 
 <script 
   src="https://carnegiemellon.shorthandstories.com/greenery-vs-safety/embed.js">
@@ -19,15 +19,19 @@ Text here!
 
 Text here!
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+References are provided in the Shorthand's resources section and repeated here for ease. Data sources for all visualizations and cited call-out statistics are available at the bottom of each Flourish visualization.
 
-Text here!
+1. Petras, M. (2022, May 24). Pittsburgh’s tree canopy is fragile and uneven. can it be more equitable? PublicSource. https://www.publicsource.org/pittsburgh-tree-canopy-equity-hazelwood-hill-district-hilltop-climate-action-shade/
+
+2. Ogletree, S., Larson, L., Powell, R. B., White, D. L., & Brownlee, M. T. J. (2022). Urban greenspace linked to lower crime risk across 301 major U.S. cities. Cities, 131, 1-12. Article 103949. https://doi.org/10.1016/j.cities.2022.103949
+
+3. Rader, M. (2022, August 11). To reduce violence in Philly, plant trees and gardens. https://www.inquirer.com. https://www.inquirer.com/opinion/commentary/vacant-lots-trees-garden-crime-philadelphia-20220811.html#loaded
+
+4. Board, G. (2023, October 20). How a $9 million grant will boost Pittsburgh’s urban forest. The Allegheny Front. https://www.alleghenyfront.org/9-million-grant-will-boost-pittsburghs-urban-forest-tree-pittsburgh/
+
+5. N.A. (2023). Economics of Urban Forestry in the United States. Arbor Day Foundation. https://www.arborday.org/urban-forestry-economic/
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
