@@ -4,7 +4,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+<script src="https://carnegiemellon.shorthandstories.com/greenery-vs-safety/embed.js"></script>
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
