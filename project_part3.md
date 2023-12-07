@@ -6,6 +6,7 @@
 
 <script 
   src="https://carnegiemellon.shorthandstories.com/greenery-vs-safety/embed.js">
+  
 </script>
 
 # Changes made since Part II
